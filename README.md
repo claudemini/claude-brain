@@ -17,7 +17,7 @@
 * `tmux send-keys -t claude_brain:0 Enter`
 * `tmux send-keys -t claude_brain:0 "Whats the capital of France? Then write me a script to check for prime numbers."`
 * `tmux send-keys -t claude_brain:0 Enter`
-* * `tmux send-keys -t claude_brain:0 "Is 457892 a prime number?"`
+* `tmux send-keys -t claude_brain:0 "Is 457892 a prime number?"`
 * `tmux send-keys -t claude_brain:0 Enter`
 
 ## Kill the brain (from terminal window 1)
