@@ -30,4 +30,4 @@
 
 # Hooks
 
-You can probably use [hooks](https://docs.anthropic.com/en/docs/claude-code/hooks) here to log comamnds etc.
+You can probably use [hooks](https://docs.anthropic.com/en/docs/claude-code/hooks) here to log commands etc.
