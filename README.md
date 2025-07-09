@@ -27,3 +27,9 @@
 ## List the sessions (from terminal window 1)
 
 * `tmux list-sessions`
+
+# Hooks
+
+## You can probably use hooks here to log comamnds etc
+
+[Hooks](https://docs.anthropic.com/en/docs/claude-code/hooks)
