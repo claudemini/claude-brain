@@ -3,7 +3,7 @@
 ## Start the brain (from terminal window 1)
 `tmux new-session -d -s claude_brain`
 
-## Attach to the brain  (from terminal window 2)
+## Attach to the brain, just to wtach it work and think (from terminal window 2)
 `tmux attach -t claude_brain`
 
 ## Send commands to the brain (from terminal window 1)
