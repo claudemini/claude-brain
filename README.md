@@ -1,4 +1,4 @@
-# Idea, use Claude Code instance as "brain" that can stay alive an get piped different commands
+# Idea, use a Claude Code instance as a "brain" that can stay alive indeffinately and get piped different commands, acting as a supervisor agent
 
 ## Start the brain (from terminal window 1)
 `tmux new-session -d -s claude_brain`
